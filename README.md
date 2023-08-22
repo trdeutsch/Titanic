@@ -6,7 +6,7 @@ BUSINESS UNDERSTANDING
 
 What is the goal of the project? What is the problem that you are trying to solve?
 
-What sorts of people were more likely to survive?
+To predict what sorts of people were more likely to survive.
 
 ANALYTIC APPROACH
 
